@@ -6,7 +6,7 @@ package day2.realworldexample;
  * <br>
  * house hold appliances cannot consume more than 1000 watts for safety purpose
  * @author leekendra venna
- * @version 1.0
+ * @version 1.1
  *
  * */
 public interface ElectricalAppliance {
